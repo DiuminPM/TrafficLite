@@ -22,7 +22,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        actionButton.layer.cornerRadius = 10
+        actionButton.layer.cornerRadius = 15
         redColorView.layer.cornerRadius = 75
         yellowColorView.layer.cornerRadius = 75
         greenColorView.layer.cornerRadius = 75
